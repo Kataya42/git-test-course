@@ -1,3 +1,5 @@
-.in
-.out
-.pyc
+
+#ignore files
+*.in
+*.out
+*.pyc
